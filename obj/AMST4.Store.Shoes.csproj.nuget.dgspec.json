@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Andrea\\Desktop\\amst4.stores.shoes\\AMST4.Store.Shoes.csproj": {}
+    "F:\\AMST4.Store.Shoes\\AMST4.Store.Shoes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Andrea\\Desktop\\amst4.stores.shoes\\AMST4.Store.Shoes.csproj": {
+    "F:\\AMST4.Store.Shoes\\AMST4.Store.Shoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Andrea\\Desktop\\amst4.stores.shoes\\AMST4.Store.Shoes.csproj",
+        "projectUniqueName": "F:\\AMST4.Store.Shoes\\AMST4.Store.Shoes.csproj",
         "projectName": "AMST4.Store.Shoes",
-        "projectPath": "c:\\Users\\Andrea\\Desktop\\amst4.stores.shoes\\AMST4.Store.Shoes.csproj",
+        "projectPath": "F:\\AMST4.Store.Shoes\\AMST4.Store.Shoes.csproj",
         "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Andrea\\Desktop\\amst4.stores.shoes\\obj\\",
+        "outputPath": "F:\\AMST4.Store.Shoes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,19 +45,19 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[7.0.17, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

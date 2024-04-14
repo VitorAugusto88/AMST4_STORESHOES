@@ -28,3 +28,15 @@ C:\src\2A\AMST4.Store.Shoes\obj\Debug\net8.0\refint\AMST4.Store.Shoes.dll
 C:\src\2A\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.pdb
 C:\src\2A\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.genruntimeconfig.cache
 C:\src\2A\AMST4.Store.Shoes\obj\Debug\net8.0\ref\AMST4.Store.Shoes.dll
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.csproj.AssemblyReference.cache
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.GeneratedMSBuildEditorConfig.editorconfig
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.AssemblyInfoInputs.cache
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.AssemblyInfo.cs
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.csproj.CoreCompileInputs.cache
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.MvcApplicationPartsAssemblyInfo.cache
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.RazorAssemblyInfo.cache
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.RazorAssemblyInfo.cs
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.sourcelink.json
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.dll
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\refint\AMST4.Store.Shoes.dll
+F:\AMST4.Store.Shoes\obj\Debug\net8.0\AMST4.Store.Shoes.pdb
